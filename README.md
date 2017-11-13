@@ -3,8 +3,7 @@
 This is main page of Ansys Maxwell control program project.
 This project is developed for beginners to understand the working flow of control program in Ansys Maxwell.
 
-
-
+A Chinese version of this project is [Here](workflow_zh_cn.md).
 
 ### Jekyll Themes
 
